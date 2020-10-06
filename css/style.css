@@ -1,0 +1,14 @@
+#mainContainer{
+    display: flex;
+}
+#command, #abhW {
+    width: 50%;
+}
+body{
+    background-color: darkcyan;
+}
+#command ul li {
+
+
+
+}
